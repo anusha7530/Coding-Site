@@ -32,18 +32,6 @@ body {
     z-index: -1;
 }
 
-#logo{
-    margin: 0px 6px;
-}
-#logo img{
-    margin: -3px 14px;
-    height: 50px;
-    width: 67px;
-}
-#logo p{
-    font-family: 'Young Serif', serif;
-    text-align: center;
-}
 #navbar ul{
     display: flex;
     font-weight: bold;
